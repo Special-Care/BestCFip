@@ -15,7 +15,8 @@ sources = {
     'https://vps789.com/openApi/cfIpApi': 'VPS',
     'https://www.wetest.vip/page/cloudflare/address_v4.html': 'WeTest',
     'https://addressesapi.090227.xyz/ct': 'CMLiuss',
-    'https://addressesapi.090227.xyz/cmcc-ipv6': 'CMLiussv6'
+    'https://addressesapi.090227.xyz/cmcc-ipv6': 'CMLiussv6',
+    'https://raw.githubusercontent.com/xingpingcn/enhanced-FaaS-in-China/refs/heads/main/Cf.json': 'FaaS'
 }
 
 PORT = '443'  # 目标端口号
